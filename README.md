@@ -2,6 +2,14 @@
 
 ### This repository is for the Talk at ODSC APAC 2024 on "Operationalizing GenAI: Effective LLM Compression and Optimization Methods" on 13th August 2024
 
+<img>
+
+![APAC2024_Nijesh Kanjinghat](https://github.com/user-attachments/assets/638fb4e6-cabc-4b49-939e-50cc191743d7)
+
+
+</img>
+
+
 
 <p>In today's rapidly evolving AI landscape, deploying large language models (LLMs) efficiently is a significant challenge, especially when balancing performance with cost. ""Operationalizing GenAI: Effective LLM Compression and Optimization Methods"" delves into cutting-edge techniques to streamline the deployment of generative AI applications. This session is designed for AI practitioners, data scientists, and machine learning engineers who are keen on enhancing their expertise in model optimization and seeking practical solutions for real-world applications.
 
@@ -19,9 +27,3 @@ Background Knowledge:
 Some exposure to LLMs and deploying them will help
 </p>
 
-<img>
-
-![APAC2024_Nijesh Kanjinghat](https://github.com/user-attachments/assets/638fb4e6-cabc-4b49-939e-50cc191743d7)
-
-
-</img>
