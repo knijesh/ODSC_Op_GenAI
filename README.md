@@ -18,3 +18,10 @@ This talk is particularly relevant for industries leveraging AI for large-scale 
 Background Knowledge:
 Some exposure to LLMs and deploying them will help
 </p>
+
+<img>
+
+![APAC2024_Nijesh Kanjinghat](https://github.com/user-attachments/assets/638fb4e6-cabc-4b49-939e-50cc191743d7)
+
+
+</img>
